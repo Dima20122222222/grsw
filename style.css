@@ -1,0 +1,43 @@
+.body {
+    background-color: aquamarine;
+}
+
+.direction-tope {
+    margin-left: 650px;
+}
+
+.directional-button {
+    color: brown;
+    text-decoration: none;
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+
+.gis1 {
+    border: dashed brown;
+}
+
+.h21 {
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+
+.moto12 {
+    width: 800px;
+}
+
+.li-4 {
+    list-style: none;
+    border: dashed brown;
+    margin-right: 175px;
+}
+
+.moto1 {
+    width: 1200px;
+}
+
+.ul-4 {
+    gap: 90px;
+}
